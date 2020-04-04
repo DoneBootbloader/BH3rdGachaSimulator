@@ -2,7 +2,6 @@
 基于Jie2GG的[Native.FrameWork](https://github.com/Jie2GG/Native.Framework)框架，依托于酷Q平台进行开发
 
 ## 引言
-交流群:671467200<br>
 受到我之前使用过的[插件](https://cqp.cc/t/43414)启发，想开发一个属于自己的抽卡模拟插件<br>
 ~~目前输出结果只是图片，所以仅限于[CQP](https://cqp.cc/t/14901)，免费的CQA由于无法发送图片而不能使用~~<br>
 抽卡结果有图片和文字版，[CQP](https://cqp.cc/t/14901)与[CQA](https://cqp.cc/t/23253)都可使用<br>
